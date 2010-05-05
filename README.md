@@ -9,4 +9,4 @@ Installation
 -------------
 
 * Move Flarp.xml into `~/.gnome2/gedit/styles`
-* Open Gedit, then go to Edit $rarr; Preferences $rarr; Font & Colors and select Flarp.
+* Open Gedit, then go to Edit &rarr; Preferences &rarr; Font & Colors and select Flarp.
