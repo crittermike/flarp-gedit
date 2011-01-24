@@ -3,7 +3,7 @@ Flarp for Gedit
 
 Flarp is a nice dark brown theme. Here, take a look:
 
-![Flarp Screenshot](http://mikethecoder.com/uploads/image851x573.png)
+![Flarp Screenshot](http://i.imgur.com/84Eiu.png)
 
 Installation
 -------------
